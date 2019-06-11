@@ -29,6 +29,6 @@ on the track 1 and 2 in the simulator.
 - `requirements.txt`: a list of libraries used in `model.py`.
 
 The raw training/validation data for this project are available at
-[track1](https://www.dropbox.com/s/dvqycnpnfou97nv/data.zip?dl=0)
+[track1](https://www.dropbox.com/s/gym0odt4hu9r2in/data.zip?dl=0)
 and
-[track2](https://www.dropbox.com/s/jtid1xlprml1d7s/data2.zip?dl=0).
+[track2](https://www.dropbox.com/s/pewr3gx5w8qhz4y/data_track2.zip?dl=0).
